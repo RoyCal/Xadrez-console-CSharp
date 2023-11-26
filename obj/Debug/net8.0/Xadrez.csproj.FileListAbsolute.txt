@@ -12,3 +12,4 @@ D:\Codigos\C#\xadrez-console\Xadrez\obj\Debug\net8.0\refint\Xadrez.dll
 D:\Codigos\C#\xadrez-console\Xadrez\obj\Debug\net8.0\Xadrez.pdb
 D:\Codigos\C#\xadrez-console\Xadrez\obj\Debug\net8.0\Xadrez.genruntimeconfig.cache
 D:\Codigos\C#\xadrez-console\Xadrez\obj\Debug\net8.0\ref\Xadrez.dll
+D:\Codigos\C#\xadrez-console\Xadrez\obj\Debug\net8.0\Xadrez.sourcelink.json
